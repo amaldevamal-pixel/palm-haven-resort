@@ -25,7 +25,7 @@ export default function DiningExperience() {
             <div className="relative h-[240px] sm:h-[280px] md:h-[520px] rounded-2xl md:rounded-[36px] overflow-hidden">
 
               <img
-                src="/gallery/dining.jpg"
+                src="/gallery/dining-2.jpg"
                 alt="Dining Experience"
                 className="w-full h-full object-cover"
               />

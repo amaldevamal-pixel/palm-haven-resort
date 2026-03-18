@@ -4,10 +4,10 @@ import { motion, useScroll, useTransform } from "framer-motion";
 import { useRef } from "react";
 
 const items = [
-  { title: "Infinity Pool", image: "/gallery/pool.jpg" },
+  { title: "Infinity Pool", image: "/gallery/resort-1.jpg" },
   { title: "Luxury Suites", image: "/gallery/room.jpg" },
   { title: "Backwater Views", image: "/gallery/backwater.jpg" },
-  { title: "Fine Dining", image: "/gallery/dining.jpg" },
+  { title: "Fine Dining", image: "/gallery/dining-2.jpg" },
 ];
 
 // ✅ Repeat more times for smoother + longer desktop scroll
